@@ -10,6 +10,7 @@ BOB2 libを使った、タンク本体の制御コード例
 ## 使い方
 * 事前に、https://github.com/CoderDojoNishinasuno/60-bob2_lib をMakeCodeの読み込みで読み込ませている。
 * BOB2に搭載するmicro:bitにロードする
+* リモコン操作するための micro:bit で使うコードは https://github.com/CoderDojoNishinasuno/60-2_bob2_controller
 * BOB2の使い方 https://zenn.dev/kotaproj/articles/microbit_robo
 
 
